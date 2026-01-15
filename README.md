@@ -1,17 +1,10 @@
-NAME: AKINTIMEHIN BLESSING OYINDAMOLA
+##  STUDENT INFORMATION 
+- NAME: AKINTIMEHIN BLESSING OYINDAMOLA  
+- MATRIC NUMBER: 24/15036
+- COURSE CODE: SEN 201 
+- DEPARTMENT: COMPUTER SCIENCE 
 
-
-DEPARTMENT: COMPUTER SCIENCE
-
-
-MATRIC NUMBER: 24/15036
-
-
-LEVEL: 200
-
-
-COURSE CODE: SEN 201
-
+---
 
 #  Expense Tracker (Python Project)
 
@@ -136,6 +129,6 @@ Follow the steps below to run the application:
 ## 📌 Conclusion
 The Expense Tracker project successfully demonstrates how Python can be used to solve real-world problems while following the SDLC process.
 
-The project is simple, efficient, and suitable for academic and learning purposes. 🎓✨
+The project is simple, efficient, and suitable for academic and learning purposes. 
 
 ---
