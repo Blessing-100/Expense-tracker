@@ -126,7 +126,7 @@ Follow the steps below to run the application:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 The Expense Tracker project successfully demonstrates how Python can be used to solve real-world problems while following the SDLC process.
 
 The project is simple, efficient, and suitable for academic and learning purposes. 
