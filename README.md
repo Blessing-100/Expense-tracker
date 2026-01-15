@@ -3,7 +3,7 @@
 - MATRIC NUMBER: 24/15036
 - COURSE CODE: SEN 201 
 - DEPARTMENT: COMPUTER SCIENCE 
-- GitHub Repository: [Expense Tracker Project](https://github.com/Blessing-100/Expense-tracker)
+- GITHUB REPOSITORY: [Expense Tracker Project](https://github.com/Blessing-100/Expense-tracker)
 ---
 
 #  Expense Tracker (Python Project)
